@@ -1,0 +1,11 @@
+{
+  "name": "mi-simon-dice",
+  "version": "1.0.0",
+  "description": "Mi versión del juego \"Simón dice\" para r/argentina-programa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milena Aron",
+  "license": "ISC"
+}
